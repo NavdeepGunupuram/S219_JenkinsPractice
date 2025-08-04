@@ -5,4 +5,3 @@ export default defineConfig({
   base: '/S219_JenkinsPractice/',
   plugins: [react()]
 })
-
